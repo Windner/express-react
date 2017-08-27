@@ -1,5 +1,5 @@
 # express-react
-sample project of express+react+docker compose
+sample project of express+react+react-router+docker compose
 
 #command
 
