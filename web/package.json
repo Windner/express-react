@@ -4,9 +4,9 @@
     "private": true,
     "scripts": {
         "webpack-watch": "webpack -w",
-        "express-server": "node ./server",
+        "express-server": "node ./server.js",
         "dev": "concurrent --kill-others \"npm run webpack-watch\" \"npm run express-server\"",
-        "start": "node server.js"
+        "start": "node ./server.js"
     },
     "dependencies": {
         "express": "^4.13.4","babel-loader": "^6.2.5",

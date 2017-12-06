@@ -12,8 +12,10 @@ ADD package.json /src/package.json
 
 RUN npm install
 
+ADD / /src
+
 ADD nodemon.json /src/nodemon.json
 
-EXPOSE  3000
+EXPOSE  8080
 
 CMD npm run dev
