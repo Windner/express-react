@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default class nav extends React.Component {
+export default class Nav extends React.Component {
     render () {
         return (
             

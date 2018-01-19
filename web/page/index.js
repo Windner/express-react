@@ -1,10 +1,10 @@
 import React from 'react'
-import nav from '../components/nav'
+import Nav from '../components/nav'
 export default class index extends React.Component {
     render () {
         return (
             <div>
-                <nav/>
+                <Nav/>
                 <div>Hello!!! 2017/12/14</div>
             </div>
         )
