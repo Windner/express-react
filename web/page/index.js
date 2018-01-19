@@ -5,7 +5,7 @@ export default class index extends React.Component {
         return (
             <div>
                 <nav/>
-                <div>Hello!!!</div>
+                <div>Hello!!! 2017/12/14</div>
             </div>
         )
     }
