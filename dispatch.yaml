@@ -1,0 +1,3 @@
+dispatch: 
+  - url: "express-1122.appspot.com/bookself"
+    service: bookself
