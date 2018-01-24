@@ -9,3 +9,4 @@ steps:
       - app
       - deploy
       - --image-url=gcr.io/$PROJECT_ID/$REPO_NAME:$COMMIT_SHA
+      dir: 'web'
