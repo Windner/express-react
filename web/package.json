@@ -21,7 +21,10 @@
         "webpack": "^1.12.13",
         "react": "^15.3.0",
         "react-dom": "^15.3.2",
-        "react-router": "^2.0.0"
+        "react-router": "^2.0.0",
+        "winston": "^2.0.0",
+        "express-winston": "^2.0.0"
+
     },
     "devDependencies": {
         "babel-plugin-transform-runtime": "^6.4.3",
